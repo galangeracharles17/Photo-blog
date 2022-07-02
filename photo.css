@@ -49,6 +49,10 @@ div {
     margin-bottom: 4px;
 }
 
+.image-container-two {
+    margin-bottom: 40px;
+}
+
 @media (max-width:375px) {
 
     h1 {
@@ -71,5 +75,9 @@ div {
         flex-direction: column;
         align-items: center;
         text-align: center;
+    }
+
+    .image-container-two {
+        margin-bottom: 20px;
     }
 }
